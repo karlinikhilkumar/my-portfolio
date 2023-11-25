@@ -160,9 +160,7 @@ section {
   display: flex;
   
 }
-/* .section-container:hover{
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-} */
+
 
 /* PROFILE SECTION */
 
@@ -409,6 +407,10 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+.project-img{
+  width: 40%;
+  height: 20%;
+}
 
 /* CONTACT */
 
@@ -480,6 +482,10 @@ article .icon {
 .btn.btn2{
   display: inline-block;
   background: #f7c331;
+}
+#download{
+  position: relative;
+  top: 50px;
 }
 .contact-right form{
   width: 100%;
